@@ -34,7 +34,6 @@
     },
     "require": {
         "php": ">=8.0.2",
-        "ext-smbclient": "*",
         "icewind/smb": "^3.5",
         "league/flysystem": "^3.0"
     },
